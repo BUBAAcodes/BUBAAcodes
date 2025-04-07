@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [cbio-portal clinical timeline standalone](https://github.com/cBioPortal/GSoC/issues/106)
 
-- 🌱 I’m currently learning **R language ,shiny , aws , docker**
+- 🌱 I’m currently learning **jupyter notebook , aws , docker**
 
 - 📫 How to reach me **gmail - singgrishit@gmail.com**
 
